@@ -1,0 +1,11 @@
+C:\Users\mohamad_abod\Desktop\project\LonnApp\bin\Debug\net9.0\LonnApp.deps.json
+C:\Users\mohamad_abod\Desktop\project\LonnApp\bin\Debug\net9.0\LonnApp.dll
+C:\Users\mohamad_abod\Desktop\project\LonnApp\bin\Debug\net9.0\LonnApp.pdb
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.AssemblyInfoInputs.cache
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.AssemblyInfo.cs
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.csproj.CoreCompileInputs.cache
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.dll
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\refint\LonnApp.dll
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\LonnApp.pdb
+C:\Users\mohamad_abod\Desktop\project\LonnApp\obj\Debug\net9.0\ref\LonnApp.dll
